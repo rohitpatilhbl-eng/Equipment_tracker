@@ -57,17 +57,23 @@ The backend exposes the following REST APIs:
 
 ---
 
-equipment-tracker/
-├─ backend/
-│ ├─ server.js
-│ ├─ data.json
-│ └─ package.json
-├─ frontend/
-│ ├─ public/
-│ ├─ src/
-│ └─ package.json
-├─ README.md
-└─ .gitignore
+## Project Structure
+
+backend/
+- routes/
+- data/
+- index.js
+- package.json
+
+frontend/
+- public/
+- src/
+  - api/
+  - components/
+  - pages/
+  - App.js
+- package.json
+
 
 
 ---
