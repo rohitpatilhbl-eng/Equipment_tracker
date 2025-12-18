@@ -1,0 +1,16 @@
+[
+  {
+    "id": "150b41f0-7514-4962-8c6a-0201fcacc92e",
+    "name": "Tab",
+    "type": "Machine",
+    "status": "Inactive",
+    "lastCleanedDate": "2025-12-15"
+  },
+  {
+    "id": "351cef8d-6af2-40cd-994e-500469a6511b",
+    "name": "Mobile",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleanedDate": "2025-12-16"
+  }
+]
