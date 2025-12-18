@@ -121,7 +121,6 @@ Make sure both the frontend and backend are running at the same time.
 
 ## Possible Improvements
 
-- Given additional time, the following enhancements could be implemented:
 - Migrate data storage from a JSON file to a database such as PostgreSQL or MongoDB.
 - Add search, filter, and sorting capabilities to improve usability for larger datasets.
 - Enhance UI styling and ensure full mobile responsiveness.
