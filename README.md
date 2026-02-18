@@ -1,7 +1,7 @@
 # Equipment Tracker Application
 
-This project is a simple full-stack web application developed as part of a take-home assignment.  
-The main objective of this application is to manage a list of equipment and demonstrate basic understanding of frontend, backend, and REST API concepts.
+This project is a simple full-stack web application, and The main objective of this application is to manage a list of equipment and demonstrate basic understanding of frontend, backend, and REST API concepts.  
+
 
 The focus of this project is functionality, clean code, and clear separation between frontend and backend.
 
